@@ -1,3 +1,4 @@
+%求译码的正确个数
 function distance = gf2num(gf_a)
 distance = -1;
 if (gf_a == gf(0,3)) distance = 0; end
